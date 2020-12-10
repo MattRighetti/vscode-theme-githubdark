@@ -1,0 +1,21 @@
+{
+    "name": "github-dark-theme",
+    "displayName": "Github Dark",
+    "description": "Github Dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Github Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Github Dark-color-theme.json"
+            }
+        ]
+    }
+}
