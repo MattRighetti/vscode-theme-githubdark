@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Tag names in Stylesheets",
+        "scope": [
+          "entity.name.tag.css",
+          "entity.name.tag.less",
+          "entity.name.tag.custom.css",
+          "support.constant.property-value.css"
+        ],
+        "settings": {
+          "foreground": "#ff6363",
+          "fontStyle": ""
+        }
+      },
+      {
+        "name": "Wildcard(*) selector in Stylesheets",
+        "scope": [
+          "entity.name.tag.wildcard.css",
+          "entity.name.tag.wildcard.less",
+          "entity.name.tag.wildcard.scss",
+          "entity.name.tag.wildcard.sass"
+        ],
+        "settings": {
+          "foreground": "#7fdbca"
+        }
+      },
+      {
+        "name": "CSS Keyword Other Unit",
+        "scope": "keyword.other.unit.css",
+        "settings": {
+          "foreground": "#FFEB95"
+        }
+      },
+      {
+        "name": "Attribute Name for CSS",
+        "scope": [
+          "meta.attribute-selector.css entity.other.attribute-name.attribute",
+          "variable.other.readwrite.js"
+        ],
+        "settings": {
+          "foreground": "#F78C6C"
+        }
+      }
+]

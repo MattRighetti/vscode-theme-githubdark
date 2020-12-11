@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Go Package Imports and Strings",
+        "scope": "source.go string.quoted",
+        "settings": {
+            "foreground": "#8abe28"
+        }
+    },
+    {
+        "name": "Go Function Calls",
+        "scope": "source.go support.function",
+        "settings": {
+            "foreground": "#CAAAF8"
+        }
+    },
+    {
+        "name": "Go Keywords",
+        "scope": [
+            "source.go keyword.package.go",
+            "source.go keyword.import.go",
+            "source.go keyword.function.go",
+            "source.go keyword.type.go",
+            "source.go keyword.struct.go",
+            "source.go keyword.interface.go",
+            "source.go keyword.const.go",
+            "source.go keyword.var.go",
+            "source.go keyword.map.go",
+            "source.go keyword.channel.go",
+            "source.go keyword.control.go"
+        ],
+        "settings": {
+            "foreground": "#EF8277"
+        }
+    },
+    {
+        "name": "Go Constants e.g. nil, string format (%s, %d, etc.)",
+        "scope": [
+            "source.go constant.language.go",
+            "source.go constant.other.placeholder.go"
+        ],
+        "settings": {
+            "foreground": "#ff5874"
+        }
+    },
+    {
+        "name": "Go Function Name Declaration",
+        "scope" : "source.go entity.name.function",
+        "settings": {
+            "foreground": "#CBABF9",
+            "fontStyle": "bold"
+        }
+    }
+]

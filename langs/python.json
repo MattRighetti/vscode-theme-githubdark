@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Language Constants in Python",
+        "scope": "constant.language.python",
+        "settings": {
+          "foreground": "#ff5874"
+        }
+      },
+      {
+        "name": "Python Function Parameter and Arguments",
+        "scope": [
+          "variable.parameter.function.python",
+          "meta.function-call.arguments.python"
+        ],
+        "settings": {
+          "foreground": "#82AAFF"
+        }
+      },
+      {
+        "name": "Python Function Call",
+        "scope": [
+          "meta.function-call.python",
+          "meta.function-call.generic.python"
+        ],
+        "settings": {
+          "foreground": "#B2CCD6"
+        }
+      },
+      {
+        "name": "Punctuations in Python",
+        "scope": "punctuation.python",
+        "settings": {
+          "foreground": "#d6deeb"
+        }
+      },
+      {
+        "name": "Decorator Functions in Python",
+        "scope": "entity.name.function.decorator.python",
+        "settings": {
+          "foreground": "#c5e478"
+        }
+      },
+      {
+        "name": "Python Language Variable",
+        "scope": "source.python variable.language.special",
+        "settings": {
+          "foreground": "#8EACE3"
+        }
+      },
+      {
+        "name": "Python import control keyword",
+        "scope": "keyword.control",
+        "settings": {
+          "foreground": "#c792ea",
+          "fontStyle": "italic"
+        }
+      }
+]

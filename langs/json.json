@@ -1,0 +1,37 @@
+[
+    {
+        "name": "JSON Property Names",
+        "scope": "support.type.property-name.json",
+        "settings": {
+          "foreground": "#7fdbca"
+        }
+      },
+      {
+        "name": "JSON Support Constants",
+        "scope": "support.constant.json",
+        "settings": {
+          "foreground": "#c5e478"
+        }
+      },
+      {
+        "name": "JSON Property values (string)",
+        "scope": "meta.structure.dictionary.value.json string.quoted.double",
+        "settings": {
+          "foreground": "#c789d6"
+        }
+      },
+      {
+        "name": "Strings in JSON values",
+        "scope": "string.quoted.double.json punctuation.definition.string.json",
+        "settings": {
+          "foreground": "#80CBC4"
+        }
+      },
+      {
+        "name": "Specific JSON Property values like null",
+        "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
+        "settings": {
+          "foreground": "#ff5874"
+        }
+      }
+]

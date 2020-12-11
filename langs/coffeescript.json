@@ -1,0 +1,23 @@
+[
+    {
+        "name": "CoffeScript Variable Assignment",
+        "scope": "variable.assignment.coffee",
+        "settings": {
+            "foreground": "#31e1eb"
+        }
+    },
+    {
+        "name": "CoffeScript Parameter Function",
+        "scope": "variable.parameter.function.coffee",
+        "settings": {
+            "foreground": "#d6deeb"
+        }
+    },
+    {
+        "name": "CoffeeScript Assignments",
+        "scope": "variable.assignment.coffee",
+        "settings": {
+            "foreground": "#7fdbca"
+        }
+    }
+]

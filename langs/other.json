@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Entity Names in Code Documentations",
+        "scope": [
+          "entity.name.type.instance.jsdoc",
+          "entity.name.type.instance.phpdoc"
+        ],
+        "settings": {
+          "foreground": "#5f7e97"
+        }
+      },
+      {
+        "name": "Other Variables in Code Documentations",
+        "scope": ["variable.other.jsdoc", "variable.other.phpdoc"],
+        "settings": {
+          "foreground": "#78ccf0"
+        }
+      }
+]

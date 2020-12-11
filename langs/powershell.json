@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Powershell Variables",
+        "scope": ["variable.other.readwrite.powershell"],
+        "settings": {
+          "foreground": "#82AAFF"
+        }
+      },
+      {
+        "name": "Powershell Function",
+        "scope": ["support.function.powershell"],
+        "settings": {
+          "foreground": "#7fdbcaff"
+        }
+      }
+]

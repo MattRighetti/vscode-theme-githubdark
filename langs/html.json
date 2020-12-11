@@ -1,0 +1,24 @@
+[
+    {
+        "name": "ID Attribute Name in HTML",
+        "scope": "entity.other.attribute-name.id.html",
+        "settings": {
+          "foreground": "#c5e478"
+        }
+      },
+      {
+        "name": "HTML Punctuation Definition Tag",
+        "scope": "punctuation.definition.tag.html",
+        "settings": {
+          "foreground": "#6ae9f0"
+        }
+      },
+      {
+        "name": "HTML Doctype",
+        "scope": "meta.tag.sgml.doctype.html",
+        "settings": {
+          "foreground": "#c792ea",
+          "fontStyle": "italic"
+        }
+      }
+]

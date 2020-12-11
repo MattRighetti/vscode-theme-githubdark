@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ruby Variables",
+        "scope": ["variable.other.ruby"],
+        "settings": {
+          "foreground": "#d6deeb"
+        }
+      },
+      {
+        "name": "Ruby Class",
+        "scope": ["entity.name.type.class.ruby"],
+        "settings": {
+          "foreground": "#ecc48d"
+        }
+      },
+      {
+        "name": "Ruby Hashkeys",
+        "scope": "constant.language.symbol.hashkey.ruby",
+        "settings": {
+          "foreground": "#7fdbca"
+        }
+      },
+      {
+        "name": "Ruby Symbols",
+        "scope": "constant.language.symbol.ruby",
+        "settings": {
+          "foreground": "#7fdbca"
+        }
+      }
+]

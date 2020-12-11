@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Markdown Headings",
+        "scope": [
+          "markup.heading.markdown",
+          "markup.heading.setext.1.markdown",
+          "markup.heading.setext.2.markdown"
+        ],
+        "settings": {
+          "foreground": "#82b1ff"
+        }
+      },
+      {
+        "name": "Markdown Italics",
+        "scope": "markup.italic.markdown",
+        "settings": {
+          "foreground": "#c792ea",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "Markdown Bold",
+        "scope": "markup.bold.markdown",
+        "settings": {
+          "foreground": "#c5e478",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "name": "Markdown Quote + others",
+        "scope": "markup.quote.markdown",
+        "settings": {
+          "foreground": "#697098",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "Markdown Raw Code + others",
+        "scope": "markup.inline.raw.markdown",
+        "settings": {
+          "foreground": "#80CBC4"
+        }
+      },
+      {
+        "name": "Markdown Links",
+        "scope": [
+          "markup.underline.link.markdown",
+          "markup.underline.link.image.markdown"
+        ],
+        "settings": {
+          "foreground": "#ff869a"
+        }
+      },
+      {
+        "name": "Markdown Link Title and Description",
+        "scope": [
+          "string.other.link.title.markdown",
+          "string.other.link.description.markdown"
+        ],
+        "settings": {
+          "foreground": "#d6deeb"
+        }
+      },
+      {
+        "name": "Markdown Punctuation",
+        "scope": [
+          "punctuation.definition.string.markdown",
+          "punctuation.definition.string.begin.markdown",
+          "punctuation.definition.string.end.markdown",
+          "meta.link.inline.markdown punctuation.definition.string"
+        ],
+        "settings": {
+          "foreground": "#82b1ff"
+        }
+      },
+      {
+        "name": "Markdown MetaData Punctuation",
+        "scope": ["punctuation.definition.metadata.markdown"],
+        "settings": {
+          "foreground": "#7fdbca"
+        }
+      },
+      {
+        "name": "Markdown List Punctuation",
+        "scope": ["beginning.punctuation.definition.list.markdown"],
+        "settings": {
+          "foreground": "#82b1ff"
+        }
+      },
+      {
+        "name": "Markdown Inline Raw String",
+        "scope": "markup.inline.raw.string.markdown",
+        "settings": {
+          "foreground": "#c5e478"
+        }
+      }
+]
